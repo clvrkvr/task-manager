@@ -11,4 +11,12 @@
     <string name="tip_one">1. When you first open the app you can use all the functionality of the app. Like adding a task, access to your task list and calendar. But this data is only saved in your phone\'s storage. So, if there would be an incident where you will lose your phone\'s data, there will be chances where you will lose your data in this app as well.</string>
     <string name="tip_two">2. To avoid this circumstance, we highly suggest that you create an account or login before adding tasks or using the app. This way, your data is safely stored in our database and we can help you avert losing your data when such circumstance happens.</string>
     <string name="tip_three">3. Tasks you add while logged in will be automatically saved in the database once you finished setting one. When you log out, you might notice that you lost your tasks or that your task list is empty. Not to worry, this is just the app\'s mechanism. However, when you log back in, your tasks will be populated automatically from our database. Then, your tasks will be back in the list again.</string>
+    <string name="title_label">Title:</string>
+    <string name="details_label">Details:</string>
+    <string name="set_date_label">Set Date:</string>
+    <string name="set_calendar_date">Set Date</string>
+    <string name="task_title_hint">Add a title here</string>
+    <string name="task_content_hint">Write task here</string>
+    <string name="save_task">Save</string>
+    <string name="cancel">Cancel</string>
 </resources>

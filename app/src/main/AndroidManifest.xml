@@ -14,6 +14,19 @@
         android:theme="@style/Theme.TaskManager"
         tools:targetApi="31">
         <activity
+            android:name=".TaskList"
+            android:exported="false"
+            android:label="Tasks"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.taskmanager.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Task"
+            android:exported="false"
+            android:label="Add a Task" />
+        <activity
             android:name=".AboutApp"
             android:exported="false"
             android:label="About"
