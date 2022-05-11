@@ -4,14 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/add_task_background.xml" value="0.4185" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/calendar_style.xml" value="0.483" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.4185" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout-land/activity_about_app.xml" value="0.4656084656084656" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout-land/activity_calendar.xml" value="0.4656084656084656" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout-land/activity_login.xml" value="0.4656084656084656" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout-land/activity_main.xml" value="0.4656084656084656" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout-land/activity_sign_up.xml" value="0.4656084656084656" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout-land/activity_task.xml" value="0.4656084656084656" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout-land/activity_task_list.xml" value="0.4656084656084656" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout/activity_about_app.xml" value="0.55" />
+        <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout/activity_calendar.xml" value="0.55" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout/activity_login.xml" value="0.55" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout/activity_main.xml" value="0.55" />
         <entry key="..\:/Users/Owner/AndroidStudioProjects/TaskManager/app/src/main/res/layout/activity_sign_up.xml" value="0.55" />
