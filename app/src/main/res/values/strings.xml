@@ -19,4 +19,13 @@
     <string name="task_content_hint">Write task here</string>
     <string name="save_task">Save</string>
     <string name="cancel">Cancel</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_username">Your Username</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="you_are_logged_in">You are logged in</string>
 </resources>
