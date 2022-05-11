@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/actionLoginOrSignUp"
+        android:orderInCategory="1"
+        android:title="@string/login_sign_up"
+        android:icon="@drawable/ic_action_login_or_signup"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/actionTasks"
+        android:orderInCategory="2"
+        android:title="@string/tasks"
+        android:icon="@drawable/ic_action_tasks"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/actionAboutApp"
+        android:orderInCategory="3"
+        android:title="@string/about"
+        android:icon="@drawable/ic_action_about"
+        app:showAsAction="ifRoom"/>
+</menu>
